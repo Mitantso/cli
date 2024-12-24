@@ -1,3 +1,4 @@
+![ru iiec pydroid3 quickinstallrepo](https://github.com/user-attachments/assets/9c3fca48-a0f4-46ad-8eca-6000027fe70d)
 # GitHub CLI
 
 `gh` is GitHub on the command line. It brings pull requests, issues, and other GitHub concepts to the terminal next to where you are already working with `git` and your code.
